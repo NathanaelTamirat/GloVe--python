@@ -1,0 +1,1 @@
+Implementation based on the methods described in the GloVe paper (https://nlp.stanford.edu/pubs/glove.pdf)."
